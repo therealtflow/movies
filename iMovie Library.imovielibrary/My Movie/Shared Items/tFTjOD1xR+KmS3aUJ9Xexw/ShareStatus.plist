@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>email</key>
+	<array>
+		<dict>
+			<key>date</key>
+			<string>Wednesday, June 28, 2023 at 1:23:37 AM Eastern Daylight Time</string>
+			<key>fullDate</key>
+			<date>2023-06-28T05:23:37Z</date>
+			<key>login</key>
+			<string>Unknown recipient.</string>
+			<key>sourceFP</key>
+			<string>tFTjOD1xR+KmS3aUJ9Xexw - 2023-06-28 05:22:18 +0000</string>
+		</dict>
+	</array>
+	<key>export</key>
+	<array>
+		<dict>
+			<key>date</key>
+			<string>Wednesday, June 28, 2023 at 1:24:07 AM Eastern Daylight Time</string>
+			<key>fullDate</key>
+			<date>2023-06-28T05:24:07Z</date>
+			<key>resultStr</key>
+			<array>
+				<string>/Users/tylerflowers/Desktop/MUSIC/I'll Be Gone/My Movie.mp4</string>
+			</array>
+			<key>sourceFP</key>
+			<string>tFTjOD1xR+KmS3aUJ9Xexw - 2023-06-28 05:22:18 +0000</string>
+		</dict>
+	</array>
+</dict>
+</plist>
